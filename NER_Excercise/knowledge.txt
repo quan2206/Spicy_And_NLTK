@@ -1,0 +1,6 @@
+NER ( Name Entity Recognition)
+###Use-case 1 : Search 
++ NER system help to build the articles as easy ( example : Google news articles)
+###Use-case 2 : Recommendations
++ you might have seen on many websites ( example : Google News) => have a section 
+like "Stories for you" base on your search in google or your behavior in your phone
