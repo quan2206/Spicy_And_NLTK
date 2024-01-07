@@ -3,4 +3,8 @@ NER ( Name Entity Recognition)
 + NER system help to build the articles as easy ( example : Google news articles)
 ###Use-case 2 : Recommendations
 + you might have seen on many websites ( example : Google News) => have a section 
-like "Stories for you" base on your search in google or your behavior in your phone
+like "Stories for you" base on your search in google or your behavior in your phone then the system recommend to you
+###Use-case 3 : Customer Care
+-----------------------------------------
++ In natural language processing entities refer to specific elements or objects in the text that carry meaning and can be
+indentified and classified, including dates, locations, proper names, quantities, etc
