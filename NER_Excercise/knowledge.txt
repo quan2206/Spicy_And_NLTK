@@ -7,4 +7,11 @@ like "Stories for you" base on your search in google or your behavior in your ph
 ###Use-case 3 : Customer Care
 -----------------------------------------
 + In natural language processing entities refer to specific elements or objects in the text that carry meaning and can be
-indentified and classified, including dates, locations, proper names, quantities, etc
+identified and classified, including dates, locations, proper names, quantities, etc
+-----------------------------------------
+- How can i build NER system :
++ Approach 1 : Simple lookup - a basic idea is  hard coding in ur code
++ Approach 2 : Rule Based NER - in spacy  that it was using some rule
+example: like we recognize the word  "Inc " and the before word is name of comapy ( in this case : Regex is useful)
+otherwise , spacy created the entity Rule 
++ Approach 3 : Machine learning : we use the Conditional Random Fields (CRF) technique and BERT is a other popular
